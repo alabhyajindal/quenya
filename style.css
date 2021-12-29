@@ -16,7 +16,7 @@ body {
 
 header {
   padding: 2rem 0;
-  background-color: #ffe066;
+  background-color: #63e6be;
   max-width: 100%;
 }
 
@@ -47,7 +47,7 @@ main {
 }
 
 .footer {
-  background-color: #ffe066;
+  background-color: #96f2d7;
   padding: 2rem 1rem;
   position: fixed;
   bottom: 0;
