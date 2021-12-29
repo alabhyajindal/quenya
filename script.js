@@ -2,8 +2,7 @@ var button = document.querySelector(".translate");
 var textInput = document.querySelector(".textarea");
 var outputArea = document.querySelector(".output");
 
-var serverURL = "	https://api.funtranslations.com/translate/quenya.json
-";
+var serverURL = "	https://api.funtranslations.com/translate/quenya.json";
 
 function getTranslationURL(text) {
   return serverURL + "?" + "text=" + text;
